@@ -17,6 +17,7 @@ torch
 sentence-transformers
 faiss-cpu
 deep-translator
+langdetect
 pydantic
 accelerate
 
